@@ -131,5 +131,6 @@ Because of Covid19, He want to change his company to do a Web Developer, so He s
 Coding Bootcamp The University of Western Australia (UWA) on the 7th February 2022 and He will receive his certificate 
 in August 2022. He has enjoyed learning a variety of things.
 
-Github Profile: https://github.com/B-smd
+GitHub Profile: https://github.com/B-smd
 
+GitHub Gist: https://gist.github.com/b6096a7c2a8847dd39ff00506f2002fa.git
