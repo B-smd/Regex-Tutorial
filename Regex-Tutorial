@@ -54,7 +54,7 @@ Another example code snippet of regex shows as following:
 Matched `<a href='http://wwww.regex.tutorial.aus/Contact.bsmd'>contact form</a>`
 It uses five grouped subexpressions each within parentheses, to perform the pattern matching.
 Explanation of the purpose of subexpression:
-- `(a href=')` --> Find the literal text, "<a href='",identifying the starting part of an anchor tag, up to the starting position of the target URL.
+- `(<a href=')` --> Find the literal text, "<a href='",identifying the starting part of an anchor tag, up to the starting position of the target URL.
 - `(.*?)` --> Matches a series of consecutive characters in a lazy manner. This group matches the URL defined within an anchor.
 - `('>)` --> Finds the two literal characters that close the anchor's opening tag.
 - `(.*?)` --> This group finds the text between the anchor's opening and closing tag.
