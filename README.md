@@ -133,6 +133,4 @@ in August 2022. He has enjoyed learning a variety of things.
 
 GitHub Profile: https://github.com/B-smd
 
-GitHub Regex-Tutorial: https://github.com/B-smd/Regex-Tutorial.git
-
 GitHub Gist: https://gist.github.com/b6096a7c2a8847dd39ff00506f2002fa.git
