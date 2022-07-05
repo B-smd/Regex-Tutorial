@@ -1,4 +1,4 @@
-# Regex-Tutorial
+# Regex for Email and URL
 
 Regular Expressions (shortened as Regex) are patterns used to matched character combinations in strings.
 This tutorial will help you to understand and define the sequence of special characters to verify 
