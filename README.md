@@ -119,17 +119,7 @@ represent 'any single digit character from 0 to 9'.
 
 ## Author
 
-Bambang Sugiarto Micha Djaja, became an architect graduate from The Institut Teknologi Sepuluh Nopember 
-(abbreviated as ITS), Surabaya, Indonesia, on the 1st November, 1980. 
-He is an entrepreneur :
-- 12/1984 - 11/2000, PT SBPI (Surya Bangun Persada Indah) - Construction Company, Surabaya, Indonesia.
-- 06/1991 - 11/2000, Profa Design - Interior and Furniture Company, Jakarta, Indonesia.
-- 10/2002 - 08/2011, Midpower Holdings Pty Ltd - Ditributor, Perth, Australia.
-- 10/2013 - 10/2018, Midpower Holdings Pty Ltd - Coffe Shop, Perth, Australia.
-- 10/2018 - 01/2022, Midpower Holdings Pty Ltd - Passenger Transport Vehicle, Perth, Australia.
-Because of Covid19, He want to change his company to do a Web Developer, so He started learning web development at
-Coding Bootcamp The University of Western Australia (UWA) on the 7th February 2022 and He will receive his certificate 
-in August 2022. He has enjoyed learning a variety of things.
+Bambang Sugiarto Micha Djaja. Full Stack Web Developer with a background in Design and life-long dedication to learning. Effective at combining creativity, communication and problem solving to develop user-friendly applications.
 
 GitHub Profile: https://github.com/B-smd
 
